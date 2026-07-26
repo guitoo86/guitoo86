@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guitoo86
-- 👀 I’m interested in connected sonoff DIY module to Homekit wihout bridge 
+- 👀 I’m interested to Homekit ecosystem
 - 🌱 I’m currently learning how to use VSCode and platformio
 - 📫 How to reach me : by mail or message ;)
 
